@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Recognition\Recognition\obj\Debug\Recognition.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Recognition\Recognition\obj\Debug\Recognition.Form1.resources
+C:\Users\Lenovo\source\repos\Recognition\Recognition\obj\Debug\Recognition.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Recognition\Recognition\obj\Debug\Recognition.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Recognition\Recognition\obj\Debug\Recognition.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Recognition\Recognition\bin\Debug\Recognition.exe.config
+C:\Users\Lenovo\source\repos\Recognition\Recognition\bin\Debug\Recognition.exe
+C:\Users\Lenovo\source\repos\Recognition\Recognition\bin\Debug\Recognition.pdb
+C:\Users\Lenovo\source\repos\Recognition\Recognition\obj\Debug\Recognition.exe
+C:\Users\Lenovo\source\repos\Recognition\Recognition\obj\Debug\Recognition.pdb
